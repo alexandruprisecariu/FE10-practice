@@ -14,7 +14,7 @@ ul {
 
 .hero {
   background: linear-gradient(0deg rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("../images/desktop/image-hero.jpg") no-repeat center;
+    url('../images/desktop/image-hero.jpg') no-repeat center;
   background-size: cover;
   height: 650px;
   color: #fff;
@@ -27,7 +27,7 @@ ul {
 
     ul {
       display: flex;
-      font-family: "Alata", sans-serif;
+      font-family: 'Alata', sans-serif;
       font-weight: 400;
 
       li:not(:last-child) {
@@ -37,7 +37,7 @@ ul {
   }
 
   h1 {
-    font-family: "Josephin Sans", sans-serif;
+    font-family: 'Josephin Sans', sans-serif;
     font-weight: 300;
     font-size: 60px;
     padding: 25px 40px;
